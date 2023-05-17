@@ -7,7 +7,7 @@
 2.1 เข้าลิ้งค์ https://github.com/wichien445/react-short-url.git 
 เพื่อโหลด Font-End
 2.3 เมื่อดาวน์โหลดเสร็จแล้วจะได้ไฟล์ Zip react-short-url-main(Font-End)
-2.4 แตกไฟล์ Zip ทั้งสอง
+2.4 แตกไฟล์ Zip
 3.เข้าไปที่โฟร์เดอร์ react-short-url-main คลิ๊กขาว แล้วเลือก Open in Terminal 
 3.1 เมื่อเปิด Terminal แล้ว ให้พิมพ์ npm i express 
 3.2 จากนั้นพิมพ์ npm run dev เพื่อเปิดตัวโปรเจค
@@ -20,7 +20,7 @@
 1.1 เข้าลิ้งค์ https://github.com/wichien445/react-short-url.git 
 เพื่อโหลด Font-End
 1.2 เมื่อดาวน์โหลดเสร็จแล้วจะได้ไฟล์ Zip react-short-url-main(Font-End)
-2 แตกไฟล์ Zip ทั้งสอง
+2 แตกไฟล์ Zip
 3.เข้าไปที่โฟร์เดอร์ react-short-url-main คลิ๊กขาว แล้วเลือก Open in Terminal 
 3.1 เมื่อเปิด Terminal แล้ว ให้พิมพ์ npm i express 
 3.2 จากนั้นพิมพ์ npm run dev เพื่อเปิดตัวโปรเจค
